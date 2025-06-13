@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NUS\\AY 24-25 Sem2\\CP 2107\\code\\CP2107_hw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6227F1FC-240B-4C5D-8E24-2485E7E46F69}|CP2107.vcxproj|D:\\NUS\\AY 24-25 Sem2\\CP 2107\\code\\CP2107_hw\\Protocol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6227F1FC-240B-4C5D-8E24-2485E7E46F69}|CP2107.vcxproj|solutionrelative:Protocol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6227F1FC-240B-4C5D-8E24-2485E7E46F69}|CP2107.vcxproj|D:\\NUS\\AY 24-25 Sem2\\CP 2107\\code\\CP2107_hw\\KZG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6227F1FC-240B-4C5D-8E24-2485E7E46F69}|CP2107.vcxproj|solutionrelative:KZG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6227F1FC-240B-4C5D-8E24-2485E7E46F69}|CP2107.vcxproj|D:\\NUS\\AY 24-25 Sem2\\CP 2107\\code\\CP2107_hw\\NTT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6227F1FC-240B-4C5D-8E24-2485E7E46F69}|CP2107.vcxproj|solutionrelative:NTT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6227F1FC-240B-4C5D-8E24-2485E7E46F69}|CP2107.vcxproj|D:\\NUS\\AY 24-25 Sem2\\CP 2107\\code\\CP2107_hw\\KZG.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6227F1FC-240B-4C5D-8E24-2485E7E46F69}|CP2107.vcxproj|solutionrelative:KZG.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6227F1FC-240B-4C5D-8E24-2485E7E46F69}|CP2107.vcxproj|D:\\NUS\\AY 24-25 Sem2\\CP 2107\\code\\CP2107_hw\\NTT.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6227F1FC-240B-4C5D-8E24-2485E7E46F69}|CP2107.vcxproj|solutionrelative:NTT.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Protocol.cpp",
+              "DocumentMoniker": "D:\\NUS\\AY 24-25 Sem2\\CP 2107\\code\\CP2107_hw\\Protocol.cpp",
+              "RelativeDocumentMoniker": "Protocol.cpp",
+              "ToolTip": "D:\\NUS\\AY 24-25 Sem2\\CP 2107\\code\\CP2107_hw\\Protocol.cpp",
+              "RelativeToolTip": "Protocol.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-05T03:03:15.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KZG.hpp",
+              "DocumentMoniker": "D:\\NUS\\AY 24-25 Sem2\\CP 2107\\code\\CP2107_hw\\KZG.hpp",
+              "RelativeDocumentMoniker": "KZG.hpp",
+              "ToolTip": "D:\\NUS\\AY 24-25 Sem2\\CP 2107\\code\\CP2107_hw\\KZG.hpp",
+              "RelativeToolTip": "KZG.hpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-12T08:34:09.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KZG.cpp",
+              "DocumentMoniker": "D:\\NUS\\AY 24-25 Sem2\\CP 2107\\code\\CP2107_hw\\KZG.cpp",
+              "RelativeDocumentMoniker": "KZG.cpp",
+              "ToolTip": "D:\\NUS\\AY 24-25 Sem2\\CP 2107\\code\\CP2107_hw\\KZG.cpp",
+              "RelativeToolTip": "KZG.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-02T06:24:28.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NTT.hpp",
+              "DocumentMoniker": "D:\\NUS\\AY 24-25 Sem2\\CP 2107\\code\\CP2107_hw\\NTT.hpp",
+              "RelativeDocumentMoniker": "NTT.hpp",
+              "ToolTip": "D:\\NUS\\AY 24-25 Sem2\\CP 2107\\code\\CP2107_hw\\NTT.hpp",
+              "RelativeToolTip": "NTT.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-12T08:34:10.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NTT.cpp",
+              "DocumentMoniker": "D:\\NUS\\AY 24-25 Sem2\\CP 2107\\code\\CP2107_hw\\NTT.cpp",
+              "RelativeDocumentMoniker": "NTT.cpp",
+              "ToolTip": "D:\\NUS\\AY 24-25 Sem2\\CP 2107\\code\\CP2107_hw\\NTT.cpp",
+              "RelativeToolTip": "NTT.cpp",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T06:18:28.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
